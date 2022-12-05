@@ -6,4 +6,4 @@ triangle_height_length = gets.chomp.to_f
 
 triangle_area = 0.5*triangle_base_length*triangle_height_length
 
-puts "Triangle_area = #{triangle_area.round(2)}"
+puts "Triangle area = #{triangle_area.round(2)}"
